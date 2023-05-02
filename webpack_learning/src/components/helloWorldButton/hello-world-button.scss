@@ -1,0 +1,11 @@
+$bgColor:#ccc;
+
+.hello-world-button{
+ background-color: $bgColor;
+ outline: none;
+}
+
+.hello-world-text{
+font-weight: bold;
+color: green;
+}

@@ -1,0 +1,16 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Module_fedration<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ > webpack is static javascript bundler that is use for moder javascript application.
+ >webpack webpack-cli --save-dev
+ 
+	>npx webpack
+	>npx webpack --stats detailed
+	
+	>rm -r dist
+
+> Asset Module
+	4 type of Asset module is there.
+		-asset/resource
+		-asset/inline(not generate new file)
+		-asset 
+		-asset/source
